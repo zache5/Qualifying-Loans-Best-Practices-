@@ -1,6 +1,6 @@
 # Project Title
 
-The purpose of this project is to create a way for users to automatically save loans to a csv file that they are qualified for. THe code will take into account different parameters, such as the users income, credit score, home value, etc, and then will use the code to generate a list of all the loans they qualify for. The user will then have the option to save the loans to a csv file that they have the option to name. 
+The purpose of this project is to create a way for users to automatically save loans to a csv file that they are qualified for. The code will take into account different parameters, such as the users income, credit score, home value, etc, and then will use the code to generate a list of all the loans they qualify for. The user will then have the option to save the loans to a csv file that they have the option to name. 
 
 ---
 
