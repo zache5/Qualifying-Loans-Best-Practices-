@@ -13,7 +13,6 @@ In this code, I am using Pandas, Numpy, Pathlib, Sys, Questionary, and Fire.
 ## Installation Guide
 
 **Pandas**: import pandas as pd
-**Numpy**: import numpy as np
 **Pathlib**: from pathlib import Path
 **Sys**: import sys
 **Fire**: import fire
