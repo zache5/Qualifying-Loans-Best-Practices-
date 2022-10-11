@@ -1,33 +1,32 @@
 # Project Title
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+The purpose of this project is to create a way for users to automatically save loans to a csv file that they are qualified for. THe code will take into account different parameters, such as the users income, credit score, home value, etc, and then will use the code to generate a list of all the loans they qualify for. The user will then have the option to save the loans to a csv file that they have the option to name. 
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+In this code, I am using Pandas, Numpy, Pathlib, Sys, Questionary, and Fire. 
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+Pandas: import pandas as pd
+Numpy: import numpy as np
+Pathlib: from pathlib import Path
+Sys: import sys
+Fire: import fire
+Questionary: import questionary
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+![Screenshot 2022-10-10 221556](https://user-images.githubusercontent.com/107731703/195004024-4fe0754b-491d-4cf0-aa97-ccd0fed28c9e.png)
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
-
----
-
-## License
-
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+Aside from the tutors, I was the main coder on the parts that we were supposed to fill out.
